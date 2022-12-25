@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodvaSystem
 - 👀 I’m interested in Web3 and AI
-- 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on Web3 project
+- 🌱 I’m currently Working on web3, AI and Machine Learning projects.
+- 💞️ I’m looking to collaborate on AI and  Web3 project
 - 📫 How to reach me codva.tech@gmail.com
 
 <!---
